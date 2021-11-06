@@ -90,17 +90,17 @@
          不过由于项目未完善，无法发送大文件，且有可能会出现线程堵塞的情况，就是卡死。
 
 ## 部分截图
-![alt ""](https://www.picbed.cn/image/Zb3qI "登录")
-![alt ""](https://www.picbed.cn/image/ZbNrN "注册")
-<img alt="修改密码" src="https://www.picbed.cn/image/ZbhCQ" width="100%">
-![alt "主页"](https://www.picbed.cn/image/Zb2SG "主页")
-![alt ""](https://www.picbed.cn/image/ZbYcF)
-![alt ""](https://www.picbed.cn/image/ZbU35)
-![alt ""](https://www.picbed.cn/image/ZbnGf)
-![alt ""](https://www.picbed.cn/image/ZbARk)
-![alt ""](https://www.picbed.cn/image/Zb1KM)
-![alt ""](https://www.picbed.cn/image/ZbCvC)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/1.png "登录")
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/2.png "注册")
+<img alt="修改密码" src="https://b.picbed.cn/file/picbed-cn/2021/11/06/3.png" width="100%">
+![alt "主页"](https://b.picbed.cn/file/picbed-cn/2021/11/06/4.png "主页")
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/5.png)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/6.png)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/7.png)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/8.png)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/9.png)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/10.png)
 
-![alt ""](https://www.picbed.cn/image/ZbeSx)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/11.png)
 
-![alt ""](https://www.picbed.cn/image/Zbt9q)
+![alt ""](https://b.picbed.cn/file/picbed-cn/2021/11/06/12.png)
